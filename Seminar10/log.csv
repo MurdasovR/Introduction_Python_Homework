@@ -1,0 +1,10 @@
+date=11.01.2023; time=15:54:16; level=INFO; Application started
+date=11.01.2023; time=15:54:28; level=INFO; chat_id=457123232; user_id=457123232; user_first_name=Rom; message_id=1071; message="2/2"; answer="2 / 2 = 1.0"
+date=11.01.2023; time=15:55:12; level=INFO; Application is stopping. This might take a moment.
+date=11.01.2023; time=15:55:12; level=INFO; Application.stop() complete
+date=11.01.2023; time=15:56:19; level=INFO; Application started
+date=11.01.2023; time=15:56:28; level=INFO; chat_id=457123232; user_id=457123232; user_first_name=Rom; message_id=1075; message="Привет"; answer="Ошибка! Выражение "Привет" не может быть вычислено!"
+date=11.01.2023; time=15:56:40; level=INFO; chat_id=457123232; user_id=457123232; user_first_name=Rom; message_id=1077; message="1**2"; answer="Ошибка! Выражение "1**2" не может быть вычислено!"
+date=11.01.2023; time=15:56:46; level=INFO; chat_id=457123232; user_id=457123232; user_first_name=Rom; message_id=1079; message="-3-4"; answer="-3 - 4 = -7"
+date=11.01.2023; time=15:57:02; level=INFO; Application is stopping. This might take a moment.
+date=11.01.2023; time=15:57:02; level=INFO; Application.stop() complete
